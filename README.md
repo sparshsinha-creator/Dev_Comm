@@ -17,3 +17,4 @@ To setup an python environment, following commands needs to be input -
 5. There are multiple python frameworks namely - 
 Django, Flask, FastApi, Pyramid, etc.
 
+6. Password shold not be committed on git Repository, there should be separately imported into python application through environment variables.
