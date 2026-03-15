@@ -14,3 +14,6 @@ To setup an python environment, following commands needs to be input -
 4. How to install packages - pip install 
 *Note -  Before installing, packages, environment should be created first.
 
+5. There are multiple python frameworks namely - 
+Django, Flask, FastApi, Pyramid, etc.
+
