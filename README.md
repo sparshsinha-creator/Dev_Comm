@@ -10,3 +10,7 @@ To setup an python environment, following commands needs to be input -
 3. How to check what packages are in my environment?
 3.1 pip(python Installer package)
 3.2 pip list - tell how many package are there within in my environmnet
+
+4. How to install packages - pip install 
+*Note -  Before installing, packages, environment should be created first.
+
